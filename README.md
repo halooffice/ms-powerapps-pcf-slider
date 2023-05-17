@@ -1,2 +1,2 @@
 # ms-powerapps-pcf-slider
-Power Apps Component
+Power Apps Component Demo

@@ -15,3 +15,6 @@
 
 # MSBuild Binary and Structured Log
 *.binlog
+
+nodejs-cmd.lnk
+package-lock.json
